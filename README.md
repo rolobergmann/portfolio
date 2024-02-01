@@ -1,5 +1,4 @@
 # portfolio
-Mi portafolio
 
-Viajes Chile 
+## Viajes Chile 
 https://github.com/rolobergmann/viajeschile
